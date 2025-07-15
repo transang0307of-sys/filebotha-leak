@@ -1,0 +1,29 @@
+{
+  "name": "Hữu Toàn",
+  "ID": "100067122755501",
+  "mainROD": null,
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 20,
+      "countdown": 300,
+      "countdownData": null,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    }
+  ],
+  "timeRegister": "08:31:00, 9/8/2022"
+}

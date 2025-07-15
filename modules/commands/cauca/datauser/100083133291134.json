@@ -1,0 +1,37 @@
+{
+  "name": "Nhỏ An",
+  "ID": "100083133291134",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 180,
+      "countdown": 100,
+      "countdownData": 1678546176925,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1880,
+      "countdown": 15,
+      "countdownData": 1678546717392,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 58980,
+      "countdown": 5,
+      "countdownData": 1678646274102,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "21:39:52, 11/3/2023"
+}

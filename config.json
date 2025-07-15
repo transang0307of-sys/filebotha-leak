@@ -1,0 +1,265 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "encryptAppstate": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "keyAdminOnly": "100029891650673",
+    "commandDisabled": [
+        ""
+    ],
+    "eventDisabled": [
+        ""
+    ],
+    "UPTIME": 111889454.47412789,
+    "EMAIL": "bincute2919@gmail.com",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": " bot  ",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100029891650673",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100054909803339",
+        "100001420438622",
+        "100058203086218",
+        "100046076558828",
+        "100032900418675",
+        "61551905215184",
+        "100076238397505",
+        "100045609822240",
+        "100003123980375",
+        "61566316212795",
+        "61550691149003",
+        "100058273190234",
+        "100072051330303",
+        "100070059416423"
+    ],
+    "NDH": [
+        "100029891650673",
+        "",
+        "100058203086218"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000,
+        "rewardExp": 1000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c",
+        "simple-youtube-api": "",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c",
+        "fs-extra": "",
+        "simple-youtube-api": ""
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 100,
+        "unsendMessageAfter": 5000000
+    },
+    "rank": {
+        "APIKEY": "4190673504322388|JbmK4q73rmJW1rlShL8zhfWxuFM"
+    },
+    "ghep": {
+        "API": "af9ffe1bdb70e97f05dc8110cecad248c4bb925b1b52cdd6852750c0e77dba8b"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "timeToUnsend": 10,
+        "sendNoti": false
+    },
+    "version": "1.2.15",
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "adminPaseOnly": true,
+    "duaxe": {
+        "key": "heyzer"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 10,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "banksv": {
+        "key": "DUBFREE"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "checknude": {
+        "maxColumn": 10
+    },
+    "xidachnb": {
+        "maxPlayers": 10,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "ndhOnly": false,
+    "audio": {
+        "YOUTUBE_API": "AIzaSyAPOLxogXUimECrUGr-2oFLoHk7B4XyAOY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "adminPersonalOnly": false,
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "sing1": {
+        "YOUTUBE_API": "AIzaSyAPOLxogXUimECrUGr-2oFLoHk7B4XyAOY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "pokemonv2": {
+        "APIKEY": ""
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "bank": {
+        "APIKEY": "chinhdz"
+    },
+    "tiktok": {
+        "key": "eSA3Nik3"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "autotik": {
+        "autoUnsend": false,
+        "delayUnsend": 120
+    },
+    "checktt2": {
+        "maxColumn": 10
+    },
+    "hamster": {
+        "cooldownTime": 3600
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "minecraft": {
+        "HYPIXEL_API": "2aaba24d-7fb5-4003-8bfb-d8458a9499a1"
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "anh2": {
+        "cooldownTime": 1200000
+    },
+    "anhvip": {
+        "cooldownTime": 1200000
+    },
+    "sanime": {
+        "SAUCENAO_API": "169d56aff7fa708a78d20f1718a49faa98d4aeca"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "cnamebot": {
+        "status": true
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "admijnUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "tx": {
+        "timeout": 3000,
+        "core": 3,
+        "api_key": "JRTvip_2200708248"
+    },
+    "subnau": {
+        "APIKEY": ""
+    }
+}

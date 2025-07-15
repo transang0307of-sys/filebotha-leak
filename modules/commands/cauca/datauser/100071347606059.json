@@ -1,0 +1,20 @@
+{
+    "name": "Hồ Tôn Ngoc Anh",
+    "ID": "100071347606059",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "14:56:41, 23/6/2022"
+}

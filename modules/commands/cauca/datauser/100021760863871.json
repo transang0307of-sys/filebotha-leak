@@ -1,0 +1,20 @@
+{
+    "name": "Trần Đình Hiệp",
+    "ID": "100021760863871",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "19:15:02, 13/10/2022"
+}

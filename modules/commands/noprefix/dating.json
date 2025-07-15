@@ -1,0 +1,16 @@
+[
+    {
+        "name_one": "Đặng Thành",
+        "ID_one": "100086991830331",
+        "name_two": "Loan Dương",
+        "ID_two": "100087957049611",
+        "status": true,
+        "data": {
+            "days": "09:35:43 23/11/2024",
+            "countDays": 11,
+            "point": 0,
+            "daily": null,
+            "timestamp": 1732372543106
+        }
+    }
+]

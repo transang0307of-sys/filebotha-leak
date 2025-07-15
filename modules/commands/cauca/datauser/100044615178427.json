@@ -1,0 +1,20 @@
+{
+    "name": "Văn Việt Sơn",
+    "ID": "100044615178427",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "12:33:21, 11/7/2022"
+}

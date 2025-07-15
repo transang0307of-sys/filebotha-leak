@@ -1,0 +1,20 @@
+{
+    "name": "Huy Phạm",
+    "ID": "100054340193962",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "00:15:20, 24/6/2022"
+}
